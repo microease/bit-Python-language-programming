@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2880a7c5-124e-4dd6-ab09-c0993d87f899" name="默认" comment="">
-      <change afterPath="$PROJECT_DIR$/Week2/exm1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week2/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/Daydayup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/test2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week2/PythonDraw.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week2/PythonDraw.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,11 +16,14 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/bit_Python_language_programming$PythonDraw.coverage" NAME="PythonDraw Coverage Results" MODIFIED="1552891951473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week2" />
     <SUITE FILE_PATH="coverage/bit_Python_language_programming$TempConvert.coverage" NAME="TempConvert Coverage Results" MODIFIED="1552373342103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week1" />
+    <SUITE FILE_PATH="coverage/bit_Python_language_programming$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1554026321030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week3" />
     <SUITE FILE_PATH="coverage/bit_Python_language_programming$exm2.coverage" NAME="exm2 Coverage Results" MODIFIED="1552879340278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week1" />
     <SUITE FILE_PATH="coverage/bit_Python_language_programming$test.coverage" NAME="test Coverage Results" MODIFIED="1552899058527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week2" />
     <SUITE FILE_PATH="coverage/bit_Python_language_programming$shouhui.coverage" NAME="shouhui Coverage Results" MODIFIED="1552884863154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week2" />
+    <SUITE FILE_PATH="coverage/bit_Python_language_programming$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1554026978393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week3" />
     <SUITE FILE_PATH="coverage/bit_Python_language_programming$exm.coverage" NAME="exm Coverage Results" MODIFIED="1552877744162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week1" />
     <SUITE FILE_PATH="coverage/bit_Python_language_programming$exm1.coverage" NAME="exm1 Coverage Results" MODIFIED="1552898401437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week2" />
+    <SUITE FILE_PATH="coverage/bit_Python_language_programming$Daydayup.coverage" NAME="Daydayup Coverage Results" MODIFIED="1554025978023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf />
@@ -46,6 +49,9 @@
         <option value="$PROJECT_DIR$/Week2/PythonDraw.py" />
         <option value="$PROJECT_DIR$/Week2/exm1.py" />
         <option value="$PROJECT_DIR$/Week2/test.py" />
+        <option value="$PROJECT_DIR$/Daydayup.py" />
+        <option value="$PROJECT_DIR$/Week3/test2.py" />
+        <option value="$PROJECT_DIR$/Week3/test1.py" />
       </list>
     </option>
   </component>
@@ -72,12 +78,7 @@
             <path>
               <item name="bit-Python-language-programming" type="b2602c69:ProjectViewProjectNode" />
               <item name="bit-Python-language-programming" type="462c0819:PsiDirectoryNode" />
-              <item name="Week1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bit-Python-language-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bit-Python-language-programming" type="462c0819:PsiDirectoryNode" />
-              <item name="Week2" type="462c0819:PsiDirectoryNode" />
+              <item name="Week3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -93,6 +94,9 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\microease\Documents\GitHub\bit-Python-language-programming\Week3" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\microease\Documents\GitHub\bit-Python-language-programming\Week2" />
     </key>
@@ -109,8 +113,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test">
-    <configuration name="PythonDraw" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.test1">
+    <configuration name="Daydayup" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bit-Python-language-programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,12 +122,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week2/PythonDraw.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\microease\Documents\GitHub\bit-Python-language-programming\Week3\Daydayup.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,50 +158,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exm2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="bit-Python-language-programming" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week1/exm2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="shouhui" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="bit-Python-language-programming" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week2/shouhui.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bit-Python-language-programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -220,13 +180,57 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bit-Python-language-programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week3/test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bit-Python-language-programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week3/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test1" />
+        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.Daydayup" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.exm1" />
-        <item itemvalue="Python.PythonDraw" />
-        <item itemvalue="Python.shouhui" />
-        <item itemvalue="Python.exm2" />
       </list>
     </recent_temporary>
   </component>
@@ -244,16 +248,17 @@
       <workItem from="1552876636202" duration="5296000" />
       <workItem from="1552890176911" duration="7767000" />
       <workItem from="1552900034721" duration="10000" />
+      <workItem from="1554014623756" duration="1985000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13890000" />
+    <option name="totallyTimeSpent" value="15875000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.081023455" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08155651" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -350,6 +355,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Week2/test.jpg">
       <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week3/Daydayup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" lean-forward="true" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week3/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week3/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="8" lean-forward="true" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
